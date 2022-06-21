@@ -1,1 +1,1 @@
-A News App Created By Kar Technologies
+A News App Created By Dibyayan Kar
